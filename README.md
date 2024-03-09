@@ -1,4 +1,4 @@
-# Setting up macos dev machine
+# Setting up mac dev machine
 
 ## install Homebrew
 ```
@@ -23,10 +23,6 @@ Find xcode in the App Store
 download the latest Java JDK from 
 https://www.oracle.com/java/technologies/downloads/#jdk21-mac
 
-## Install Android Studio
-Download from https://developer.android.com/studio
-
-
 ## Install Cocoapods
 ```
 brew install cocoapods
@@ -38,31 +34,21 @@ brew link cocoapods
 brew install gradle
 ```
 
+## Install Android Studio
+Download from https://developer.android.com/studio
+
 ## Install Ionic CLI
 ```
 npm -g @ionic/cli
 ```
 
 ## Install VSCode ionic extension
-in vscode search for the 'ionic' extension
-```
-Name: Ionic
-Id: Ionic.ionic
-Description: Official extension for Ionic and Capacitor development
-Publisher: Ionic
+in vscode search for the 'ionic' extension<br>
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ionic.ionic
-```
 
 ## Install the VSCode Excalidraw extension
-In VSCode search for the 'excalidraw' extension
-```
-Name: Excalidraw
-Id: pomdtr.excalidraw-editor
-Description: Draw schemas in VS Code using Excalidraw
-Version: 3.7.3
-Publisher: pomdtr
+In VSCode search for the 'excalidraw' extension<br>
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor
-```
 
 
 ## Now onto some dev stuff
